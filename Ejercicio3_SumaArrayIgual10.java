@@ -1,9 +1,4 @@
-/*
-Pregunta 3
-Escribir un programa utilizando Java que encuentre los dos elementos del arreglo que sumados dan 10. 
-Se deben imprimir ambos números como resultado separados por un espacio (en el orden en que aparecen en el arreglo).
-Por ejemplo, para el arreglo (1,3,4,2,7,0) el resultado seria: 3 7
- */
+
 package prueba;
 
 import com.sun.org.apache.xerces.internal.util.FeatureState;
